@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\backend\aws-mobile-android-notes-tutorial-master\aws-mobile-android-notes-tutorial.iml" filepath="D:\backend\aws-mobile-android-notes-tutorial-master\aws-mobile-android-notes-tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aws-mobile-android-notes-tutorial-master.iml" filepath="$PROJECT_DIR$/aws-mobile-android-notes-tutorial-master.iml" />
+    </modules>
+  </component>
+</project>
